@@ -1,12 +1,16 @@
 .corpo{
-    background-color: coral;
+    background-color: ESCOLHER COR;
 }
 .titulo{
-    font-size: 50px;color: white;background:red ;text-align: center;
+    font-size: 50px;
+    color: white;
+    background: ESCOLHER COR ;
+    text-align: center;
 }
 
 .texto-imc{
-    font-size: 50px ;text-align: center;
+    font-size: 50px ;
+    text-align: center;
 
 }
 
